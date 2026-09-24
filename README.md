@@ -22,7 +22,7 @@ Site for an air conditioning installer in Leskovac with no contact form: every p
 
 Klimatronik 016 installs, services and cleans air conditioners and heat pumps in Leskovac and the surrounding district. The installer is out on jobs all day and work comes by phone. The contact form only made a promise nobody kept, so the form and the business email came off the site. The email alone sat in ten places, structured data included.
 
-The rest of the work went into making the content worth the call. The five service pages had between 75 and 123 words each and now have about a thousand, with the installer's own detail on clearances, pipe insulation, vacuuming and the best time of year to install. The price list gives ranges and the six things that move the price. The pages for Vlasotince and Lebane, once 95 percent the same text, now each describe their own area.
+The rest of the work went into making the content worth the call. The five service pages had between 75 and 123 words each and now have about a thousand, with the installer's own detail on unit placement, pipe runs and insulation, vacuuming and what a standard installation includes. The price list, taken down in September 2026, gave ranges and the six things that moved the price. The pages for Vlasotince and Lebane, once 95 percent the same text, now each describe their own area.
 
 ## What I built
 

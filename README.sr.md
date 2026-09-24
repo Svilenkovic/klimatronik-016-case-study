@@ -22,7 +22,7 @@ Sajt za montažu i servis klima uređaja u Leskovcu bez kontakt forme: svaka str
 
 Klimatronik 016 montira, servisira i čisti klima uređaje i toplotne pumpe u Leskovcu i Jablaničkom okrugu. Majstor je ceo dan na terenu i posao mu stiže telefonom. Kontakt forma je samo davala obećanje koje niko nije ispunjavao, pa su forma i poslovni mejl skinuti sa sajta. Sam mejl je stajao na deset mesta, uključujući i strukturisane podatke.
 
-Ostatak posla bio je sadržaj zbog kog vredi pozvati. Pet servisnih strana imalo je između 75 i 123 reči, a sada svaka ima oko hiljadu, sa majstorovim detaljima o razmaku do plafona, izolaciji cevi, vakuumiranju i najboljem dobu godine za montažu. Cenovnik daje raspone i šest stvari od kojih cena zavisi. Strane za Vlasotince i Lebane, nekad 95 odsto isti tekst, sada govore svaka o svom terenu.
+Ostatak posla bio je sadržaj zbog kog vredi pozvati. Pet servisnih strana imalo je između 75 i 123 reči, a sada svaka ima oko hiljadu, sa majstorovim detaljima o položaju jedinica, vođenju i izolaciji cevi, vakuumiranju i tome šta ulazi u standardnu montažu. Cenovnik, sklonjen u septembru 2026, davao je raspone i šest stvari od kojih cena zavisi. Strane za Vlasotince i Lebane, nekad 95 odsto isti tekst, sada govore svaka o svom terenu.
 
 ## Šta sam uradio
 
