@@ -4,7 +4,7 @@
 
 Site for an air conditioning installer in Leskovac with no contact form: every page leads to a phone call or a Viber message.
 
-**[klimatronik.rs](https://klimatronik.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/klimatronik-016) · [Srpski](README.sr.md)
+**[klimatronik.rs](https://klimatronik.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/klimatronik-016) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -40,7 +40,7 @@ The rest of the work went into making the content worth the call. The five servi
 | Mobile | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `HVACBusiness`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `HVACBusiness`.
 
 ## Screenshots
 
